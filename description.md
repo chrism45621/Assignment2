@@ -1,6 +1,10 @@
+---
 layout: default
-title: Description
+title: Description Page
+---
 
-Welcome to the description of the website.
+# Description Page
 
-[Home page](home.md)
+This is the description page.
+
+[Back to Home](index.md)
