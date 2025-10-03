@@ -1,0 +1,6 @@
+layout : default
+title: Home page
+Welcome to the homepage. Here are some links.
+
+-[Description page](description.md)
+-[youtube link](https://www.youtube.com)
